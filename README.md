@@ -1,5 +1,5 @@
 
 ### Nature Lover
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+This is an Old Userbot Which is Archieved Plz Move to https://github.com/sipakisking/nature
 
